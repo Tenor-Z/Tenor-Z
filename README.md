@@ -6,7 +6,7 @@ certifications and licenses to help me reach further heights. Outside of my care
 game consoles and developing programs to assist many in their day-to-day lives.
 
 # All About Me
-🔭 I’m currently working on: Porting a game I made in high school onto the Nintendo Game Boy<br>
+🔭 I’m currently working on: Creating a specialized honeypot program designed for Connection Identification and Intrusion Documentation (CIAID)<br>
 🌱 I’m currently in college for Computer Security and Digital Investigations<br>
 👯 I’m looking to collaborate on: Any homebrew programs<br>
 💬 Ask me about: Professional writing techniques, computer troubleshooting, game collecting<br>
