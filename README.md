@@ -23,7 +23,6 @@ game consoles and developing programs to assist many in their day-to-day lives.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tenor-z&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tenor-z&theme=dark&hide_border=false)<br/>
-![.](https://github-readme-stats.vercel.app/api/top-langs/?username=tenor-z&theme=dark&hide_border=false)](https://github.com/Tenor-Z/github-readme-stats)
-
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@Tenor-Z" frameborder="0"></iframe>
 
 
